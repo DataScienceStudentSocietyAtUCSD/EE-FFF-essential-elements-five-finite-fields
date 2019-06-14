@@ -2,6 +2,7 @@
 Finite Fields
 
 E1. Yin = { a , a ∈ ℕ }
+
 E2. Yang  Operations := { Addition (+) , Multiplication (x) }
 
 Field Axioms
