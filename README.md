@@ -1,8 +1,10 @@
 # EE-FFF-essential-elements-five-finite-fields
 Finite Fields
 
+## E1. Yin Principle
 E1. Yin = { a , a ∈ ℕ }
 
+## E2. Yang Principle
 E2. Yang  Operations := { Addition (+) , Multiplication (x) }
 
 Field Axioms
